@@ -4,15 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakaaaash&label=Profile%20views&color=0e75b6&style=flat" alt="aakaaaash" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mr__sky0" target="blank"><img src="https://img.shields.io/twitter/follow/mr__sky0?logo=twitter&style=for-the-badge" alt="mr__sky0" /></a> </p>
-
 - 🔭 I’m currently working on **Related to real life problems**
-
 - 🌱 I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)**
-
-- 🤝 My Projects are available at Repositories. (https://github.com/Aakaaaash?tab=repositories)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aakaaaash](https://github.com/Aakaaaash)
-
 - 📫 How to reach me **https://aakaaaash.github.io/**
 
 <h3 align="left">Connect with me:</h3>
