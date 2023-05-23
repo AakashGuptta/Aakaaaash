@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mr__sky0" target="blank"><img src="https://img.shields.io/twitter/follow/mr__sky0?logo=twitter&style=for-the-badge" alt="mr__sky0" /></a> </p>
 - 🔭 I’m currently working on **Related to real life problems**
+- 
 - 🌱 I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)**
+- 
 - 📫 How to reach me **https://aakaaaash.github.io/**
 
 <h3 align="left">Connect with me:</h3>
