@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJs (Explore Web3 in future too)**
 
-- 📫 How to reach me **https://aakaaaash.github.io/**
+- 📫 How to reach me **https://aakaaaash.github.io/Portfolio//**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
